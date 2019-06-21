@@ -1,0 +1,19 @@
+{
+  "name": "database-testing",
+  "version": "1.0.0",
+  "description": "sql database testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viveksinghmehta/database-testing.git"
+  },
+  "author": "Vivek Singh Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viveksinghmehta/database-testing/issues"
+  },
+  "homepage": "https://github.com/viveksinghmehta/database-testing#readme"
+}
